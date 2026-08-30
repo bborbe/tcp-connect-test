@@ -9,6 +9,6 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * PATCH version when you make backwards-compatible bug fixes.
 
 
-## Unreleased
+## v0.1.0
 
 - chore: update Go to 1.27.0 and github.com/bborbe/service to v1.10.10, github.com/incu6us/goimports-reviser/v3 to v3.13.2
