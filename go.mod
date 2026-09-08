@@ -1,6 +1,6 @@
 module github.com/bborbe/ping
 
-go 1.27.0
+go 1.27.1
 
 require (
 	github.com/actgardner/gogen-avro/v9 v9.2.0
