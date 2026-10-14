@@ -9,7 +9,7 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * PATCH version when you make backwards-compatible bug fixes.
 
 
-## Unreleased
+## v0.1.2
 
 - chore: update Go to 1.27.2 and github.com/bborbe/service to v1.10.16, github.com/kisielk/errcheck to v1.30.0, github.com/maxbrunsfeld/counterfeiter/v6 to v6.14.0, golang.org/x/vuln to v1.9.0
 
