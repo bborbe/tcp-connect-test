@@ -1,10 +1,10 @@
 module github.com/bborbe/ping
 
-go 1.27.2
+go 1.27.3
 
 require (
 	github.com/actgardner/gogen-avro/v9 v9.2.0
-	github.com/bborbe/service v1.10.16
+	github.com/bborbe/service v1.11.0
 	github.com/google/addlicense v1.2.0
 	github.com/incu6us/goimports-reviser/v3 v3.13.2
 	github.com/kisielk/errcheck v1.30.0
@@ -15,14 +15,14 @@ require (
 
 require (
 	github.com/bborbe/argument/v2 v2.13.6 // indirect
-	github.com/bborbe/collection v1.21.2 // indirect
+	github.com/bborbe/collection v1.21.3 // indirect
 	github.com/bborbe/errors v1.6.3 // indirect
 	github.com/bborbe/math v1.4.15 // indirect
-	github.com/bborbe/parse v1.12.3 // indirect
+	github.com/bborbe/parse v1.12.4 // indirect
 	github.com/bborbe/run v1.11.2 // indirect
-	github.com/bborbe/sentry v1.10.4 // indirect
-	github.com/bborbe/time v1.27.16 // indirect
-	github.com/bborbe/validation v1.5.4 // indirect
+	github.com/bborbe/sentry v1.10.5 // indirect
+	github.com/bborbe/time v1.27.17 // indirect
+	github.com/bborbe/validation v1.5.5 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bmatcuk/doublestar/v4 v4.10.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -39,7 +39,7 @@ require (
 	golang.org/x/mod v0.42.0 // indirect
 	golang.org/x/sync v0.24.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
-	golang.org/x/telemetry v0.0.0-20261016163328-824aa3d1d8dd // indirect
+	golang.org/x/telemetry v0.0.0-20261020154912-7bf0a11256d5 // indirect
 	golang.org/x/text v0.43.0 // indirect
 	golang.org/x/tools v0.52.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect

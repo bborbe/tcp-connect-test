@@ -9,6 +9,10 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * PATCH version when you make backwards-compatible bug fixes.
 
 
+## Unreleased
+
+- chore: update Go to 1.27.3 and github.com/bborbe/service to v1.11.0
+
 ## v0.1.3
 
 - chore: update go module dependencies
