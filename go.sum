@@ -8,8 +8,8 @@ github.com/bborbe/collection v1.21.2 h1:ID+6Lkl8TSbj6NPBpyntZTDZyO1nGCUnAQWBMrAw
 github.com/bborbe/collection v1.21.2/go.mod h1:r0kDl1yhGG/Sj2iQiBnFkfr/jXspgOmjn3YLxkQ0GfE=
 github.com/bborbe/errors v1.6.3 h1:/oSXCWcCSonPRWy1g/+EoBhSbOoH6gnqStZLrCG+erw=
 github.com/bborbe/errors v1.6.3/go.mod h1:Zvd7AQ0ZpR/hdZFtUhQ8k46CfaKYu2CLpV72CNgTHV8=
-github.com/bborbe/math v1.4.14 h1:f5+A5gcgitjvtjOHx9bNSZPjFZaUMwY02HE3QbUCZTQ=
-github.com/bborbe/math v1.4.14/go.mod h1:8DF6oFtEdlZlBqa/hNuPqHsVMpKWitDsHWFRMMLOJt8=
+github.com/bborbe/math v1.4.15 h1:s//rL+To1BF9O6qVuZ8XmEVbH9DLtggESxb8y+VHF4o=
+github.com/bborbe/math v1.4.15/go.mod h1:Cm3Q7kmwdL4czJZXjEoM8blEE6qxhs4zWnhm5itvBXg=
 github.com/bborbe/parse v1.12.3 h1:o379mk2gFrrqQY4FQZuSccmAJMPI0iToVeFnpTMpXRw=
 github.com/bborbe/parse v1.12.3/go.mod h1:WugVLECfVTbY4OsPdrGDTSRgSFTklbM0Hy9BORER10w=
 github.com/bborbe/run v1.11.2 h1:G+fL7HntNgm5cif91JJPs1skQ7Aa5si6Y2B2T8sUecw=
@@ -119,8 +119,8 @@ golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5h
 golang.org/x/sys v0.0.0-20190412213103-97732733099d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.49.0 h1:XbzkgYJHdqh/8m2Uu0W/dQv8nktxx4BFHp1M0gROTXA=
 golang.org/x/sys v0.49.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
-golang.org/x/telemetry v0.0.0-20261013142427-f87725b73f11 h1:VxaOB4JoRXAP0rniWHQq2GJLqGadpheslEdlFr48C3Y=
-golang.org/x/telemetry v0.0.0-20261013142427-f87725b73f11/go.mod h1:GNu+nb+E5axfGmP+Uu3ZVQu5lE/Xk42MjZOHWUD94/o=
+golang.org/x/telemetry v0.0.0-20261016163328-824aa3d1d8dd h1:8zu7mICKksE3/PmcOx2TNeExNKN2CpkIe+9sZpINOPM=
+golang.org/x/telemetry v0.0.0-20261016163328-824aa3d1d8dd/go.mod h1:GNu+nb+E5axfGmP+Uu3ZVQu5lE/Xk42MjZOHWUD94/o=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.43.0 h1:1QivrlhwAsnMOcqgOdl9my7s9OyZl8O5/UGUTJVXoWc=
 golang.org/x/text v0.43.0/go.mod h1:hbSIYA/amXcRXTFSZqh8tWHEoqRvvbKPJ2uz/KU+a+s=
