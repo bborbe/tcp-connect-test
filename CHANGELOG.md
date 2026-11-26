@@ -9,6 +9,10 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * PATCH version when you make backwards-compatible bug fixes.
 
 
+## Unreleased
+
+- chore: update github.com/bborbe/service to v1.12.2, golang.org/x/vuln to v1.10.0
+
 ## v0.1.5
 
 - chore: update Go to 1.27.4
